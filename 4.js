@@ -14,7 +14,7 @@ for (let i = 1; i <= 9; i++){
 
 
 // Cela tablica mnozenja
-console.log('   1   2   3   4   5   6   7   8   9')
+console.log('    1  2   3   4   5   6   7   8   9')
 for (let i = 1; i <= 9; i++){
     let str = `${i}|`
     for (let j = 1; j <= 9; j++){
