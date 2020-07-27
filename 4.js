@@ -3,14 +3,14 @@
 Написати програм који исписује таблицу множења за 1 цифру
 Бонус: За додатних 10% поена исписати таблицу множења за све цифре (1-9) */
 
-// let cifra = 5
-// let str1 = ''
-// let str2 = ''
-// let proizvod 
-// for (let i = 1; i <= 9; i++){
-//     proizvod = i * cifra
-//     console.log(`${cifra} * ${i} je: ${proizvod}`)
-// }
+let cifra = 5
+let str1 = ''
+let str2 = ''
+let proizvod 
+for (let i = 1; i <= 9; i++){
+    proizvod = i * cifra
+    console.log(`${cifra} * ${i} je: ${proizvod}`)
+}
 
 
 // Cela tablica mnozenja
